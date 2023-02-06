@@ -1,25 +1,32 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rodrigo Duarte</h1>
+### Olá 👋
 
-- 🔥 Desenvolvedor em formação
+Sou o Rodrigo, tenho 19 anos e sou estudante de universitário de Sistemas de Informação.
 
-- 🔭 Estudando Sistemas de Informação na PUC Minas
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-- 💬 Pergunte-me o que quiser!
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- 👨‍💻 Mais em: ([https://rodrigo-n-duarte.github.io/Portfolio/])
+```kotlin
+object **RODRIGO** {
+ val name = "RODRIGO NOGUEIRA DUARTE"
+ val acknowledgements = "DESENVOLVIMENTO FULL-STACK"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("HTML", "CSS", "JavaScript", "C#", "React", "MySQL") 
 
-<br><br>
+}
+```
 
-## Contact
+## **Linguagens e Ferramentas:**  
 
-<p align="left" style="background:yellow">
-<a href="https://web.whatsapp.com/send?phone=31999254045" "target="_blank">
-  <img align="center" src="https://img.shields.io/badge/--05122A?style=flat&logo=whatsapp"	alt="whatsapp">
-</a>
-<a href="https://www.linkedin.com/in/rodrigo-n-duarte/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/--05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/_rodrig0d/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/--05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
