@@ -12,7 +12,7 @@ let **RODRIGO** {
   objetivos = "DESENVOLVIMENTO FULL-STACK",
  
   setHabilidades = "EM ESTUDO...",
-  habilidades = listOf("HTML", "CSS", "JavaScript", "C#", "React", "SQL Server") 
+  habilidades = listOf("HTML", "CSS", "JavaScript", "C#", "React", "SQL", "NodeJS") 
 
 }
 ```
