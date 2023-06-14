@@ -16,7 +16,7 @@ var aboutMe {
   experiencia: {
     local: "Expert Code Software"
   },
-  tecnologiasEmEstudo: ["VueJS","React","Spring Framework","Node","Typescript","SQL","Docker", "React Native"]
+  tecnologiasEmEstudo: ["VueJS", "React", "Spring Framework", "Node", "Typescript", "SQL", "Docker", "React Native"]
 }
 ```
 
