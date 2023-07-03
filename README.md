@@ -1,15 +1,16 @@
-### Oi! Meu nome é Rodrigo 👋
+### Oi! Meu nome é Rodrigo 🎆
 
-## Como me encontrar:
+## Entre em contato:
 - 📫 E-mail **duarte.n.rodrigo@gmail.com**
   
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-```kotlin
+```typescript
 var aboutMe {
   nome: "Rodrigo Duarte",
   objetivos: "Desenvolvedor Full-Stack",
   formacao: {
     estudante: true,
+    periodo: "4/8",
     curso: "Sistemas de Informação",
     local: "PUC Minas - Betim"
   },
