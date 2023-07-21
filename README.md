@@ -4,20 +4,21 @@
 - 📫 E-mail **duarte.n.rodrigo@gmail.com**
   
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-```typescript
-var aboutMe {
-  nome: "Rodrigo Duarte",
-  objetivos: "Desenvolvedor Full-Stack",
-  formacao: {
-    estudante: true,
-    periodo: "4/8",
-    curso: "Sistemas de Informação",
-    local: "PUC Minas - Betim"
+```javascript
+const developer {
+  name: "Rodrigo Duarte",
+  objectives: "Desenvolvedor Full-Stack",
+  education: {
+    student: true,
+    period: "4/8",
+    course: "Sistemas de Informação",
+    location: "PUC Minas - Betim"
   },
-  experiencia: {
-    local: "Expert Code Software"
+  experience: {
+    enterprise: "Expert Code Software",
+    location: "Betim - MG"
   },
-  tecnologiasEmEstudo: ["VueJS", "React", "Spring Framework", "Node", "Typescript", "SQL", "Docker", "React Native"]
+  techsOnStudy: ["VueJS", "React", "Spring Framework", "Node", "Typescript", "SQL", "Docker", "React Native"]
 }
 ```
 
@@ -26,4 +27,4 @@ var aboutMe {
   <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 </div>
 
-### Clean Code.
+### <Clean Code />
