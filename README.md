@@ -5,7 +5,7 @@
   
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 ```javascript
-const developer {
+let developer {
   name: "Rodrigo Duarte",
   objectives: "Desenvolvedor Full-Stack",
   education: {
@@ -18,7 +18,17 @@ const developer {
     enterprise: "Expert Code Software",
     location: "Betim - MG"
   },
-  techsOnStudy: ["VueJS", "React", "Spring Framework", "Node", "Typescript", "SQL", "Docker", "React Native"]
+  techsOnStudy: [
+      "VueJS",
+      "React",
+      "Spring Framework",
+      "Node": {
+        "NestJS": true,
+        "Fastify": true
+      },
+      "SQL",
+      "Docker"
+  ]
 }
 ```
 
