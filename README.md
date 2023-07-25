@@ -18,13 +18,14 @@ let developer {
     enterprise: "Expert Code Software",
     location: "Betim - MG"
   },
-  techsOnStudy: [
-      "VueJS",
-      "React",
+  studyingOnMoment: [
+      "JS/TS": {
+        "VueJS": true,
+        "React": true,
+      }
       "Spring Framework",
       "Node": {
-        "NestJS": true,
-        "Fastify": true
+        "NestJS": true
       },
       "SQL",
       "Docker"
