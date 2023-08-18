@@ -19,14 +19,12 @@ let developer {
     location: "Betim - MG"
   },
   studyingOnMoment: [
-      "JS/TS": {
-        "VueJS": true,
-        "React": true,
-      }
-      "Spring Framework",
-      "Node": {
-        "NestJS": true
-      },
+      "VueJS",
+      "React",
+      "Node": [
+        "Fastify"
+      ],
+      "Spring",
       "SQL",
       "Docker"
   ]
