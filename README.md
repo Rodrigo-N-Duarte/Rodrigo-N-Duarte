@@ -1,17 +1,17 @@
 ### Oi! Meu nome é Rodrigo 🎆
 
-## Contact:
+### Contact:
 - 📫 E-mail **duarte.n.rodrigo@gmail.com**
   
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-```javascript
-let developer {
+```kotlin
+var developer {
   name: "Rodrigo Duarte",
-  objectives: "Desenvolvedor Full-Stack",
-  education: {
+  objective: "Desenvolvedor Full-Stack",
+  course: {
     student: true,
     period: "4/8",
-    course: "Sistemas de Informação",
+    subject: "Sistemas de Informação",
     location: "PUC Minas - Betim"
   }
 }
@@ -35,7 +35,7 @@ let developer {
 
 ### Learning
 <p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:580/1*4xfxyfJ336M3vvZQIY7Kaw.png" width="100" height="36" alt="React" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
