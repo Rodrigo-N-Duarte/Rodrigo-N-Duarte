@@ -36,6 +36,8 @@ var developer {
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:580/1*4xfxyfJ336M3vvZQIY7Kaw.png" width="100" height="36" alt="React" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg" width="110" height="40" alt="Spring" /></a>
 </p>
 
 <div align="space-between">
