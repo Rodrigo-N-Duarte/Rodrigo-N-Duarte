@@ -1,12 +1,8 @@
-### Contact:
-- 📫 E-mail **duarte.n.rodrigo@gmail.com**
--  💼 LinkedIn **[click here](https://www.linkedin.com/in/rodrigo-n-duarte/)**
-  
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About
 ```kotlin
 var developer {
   name: "Rodrigo Duarte",
-  objective: "Desenvolvedor Full-Stack",
+  objective: "Software Engineer",
   course: {
     student: true,
     period: "4/8",
