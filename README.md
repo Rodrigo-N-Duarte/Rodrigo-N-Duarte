@@ -1,6 +1,6 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About
 ```kotlin
-var developer {
+var developer = {
   name: "Rodrigo Duarte",
   objective: "Software Engineer",
   course: {
