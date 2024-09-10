@@ -2,10 +2,10 @@
 ```kotlin
 var developer = {
   name: "Rodrigo Duarte",
-  objective: "Software Engineer",
+  objective: "Software Analyst",
   course: {
     student: true,
-    period: "5/8",
+    period: "6/8",
     subject: "Sistemas de Informação",
     location: "PUC Minas - Betim"
   }
