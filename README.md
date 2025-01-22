@@ -31,7 +31,7 @@ var developer = {
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/sap/sap-2048.png" width="48" height="48" alt="SAP" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/O/open-ui5-logo-6674BED32F-seeklogo.com.png" width="120" height="36" alt="UI5" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:854/1*wqnAwHqLk4e5fJ393pgUKQ.png" width="36" height="40" alt="UI5" /></a>
   
 </p>
 
